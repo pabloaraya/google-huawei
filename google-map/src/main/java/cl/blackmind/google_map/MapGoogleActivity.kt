@@ -1,4 +1,4 @@
-package cl.blackmind.goowei
+package cl.blackmind.google_map
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

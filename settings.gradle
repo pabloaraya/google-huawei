@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':google-map', ':huawei-map', ':core-map'
 rootProject.name='My Application'

@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cl.blackmind.huawei_map">
+
+    <application>
+
+        <meta-data
+            android:name="com.huawei.hms.client.appid"
+            android:value="appid=101356331" />
+
+        <activity
+            android:name="cl.blackmind.huawei_map.MapHuaweiActivity"
+            android:label="Huawei Map">
+        </activity>
+    </application>
+
+</manifest>
